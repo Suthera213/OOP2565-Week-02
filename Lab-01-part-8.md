@@ -19,6 +19,8 @@ Console.WriteLine("{0:F5}", i);
 1. string name = "Hello";
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
 ```
+![image](https://user-images.githubusercontent.com/115066359/232008313-c9536b90-0626-487a-9224-04269bc94832.png)
+
 ``` csharp
 2. Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
 ```
