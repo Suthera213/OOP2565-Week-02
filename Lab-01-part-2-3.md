@@ -29,6 +29,8 @@ Console.Write("Hello" + Environment.NewLine);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/115066359/232003263-92c4d606-e7b6-46cd-b7f2-54fd36b7640e.png)
+
 
 
 ❔ ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร จงอธิบาย
@@ -44,7 +46,7 @@ Console.WriteLine("Hello");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-![image](https://user-images.githubusercontent.com/115066359/232002798-25b2101d-d7db-4b96-8e8e-0b8b908a9a47.png)
+![image]
 
 
 
