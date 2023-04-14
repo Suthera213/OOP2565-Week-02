@@ -20,6 +20,7 @@
 
 
 ---ผลการทดลอง
+![image](https://user-images.githubusercontent.com/115066359/232084851-73a7d44e-b127-439c-9f81-cbc6770cb984.png)
 
 
 ## ชนิดข้อมูลภายในภาษา C\#
