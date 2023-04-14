@@ -72,11 +72,16 @@ Console.WriteLine("-----------------------");
 
 1. `AND`![image](https://user-images.githubusercontent.com/115066359/232098633-1f33f805-5ad4-4d5b-be14-9c22fd9dbcad.png)
 
-2. `OR`
-3. `NOT`
-4. `NAND`
-5. `NOR`
-6. `Exclusive OR`
+2. `OR`![image](https://user-images.githubusercontent.com/115066359/232099131-3bcaf766-bd25-43d0-a158-b606e3a4d6f5.png)
+
+3. `NOT`![image](https://user-images.githubusercontent.com/115066359/232100036-783ca64a-fb92-4dd2-a36a-aeabb5dcfb4a.png)
+
+4. `NAND`![image](https://user-images.githubusercontent.com/115066359/232100668-a906ccd0-dbda-44f4-9a3b-e8b93a02367c.png)
+
+5. `NOR`![image](https://user-images.githubusercontent.com/115066359/232100804-331bd783-f5ba-45d4-b721-6254d95b0cb5.png)
+
+6. `Exclusive OR`![image](https://user-images.githubusercontent.com/115066359/232101227-c5e5f1b9-f7c1-42d8-9efb-e4556142c631.png)
+
 
 
 ## [ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)](./Lab-01-part-15.md)
