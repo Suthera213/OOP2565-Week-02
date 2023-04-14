@@ -15,6 +15,7 @@ Console.WriteLine("Your key is: "+ch);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/115066359/232011549-fc6cc327-3336-4d1f-8026-7715c0ad2b1b.png)
 
 
 ❔ ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
