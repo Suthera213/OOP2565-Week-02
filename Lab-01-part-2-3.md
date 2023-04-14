@@ -46,7 +46,8 @@ Console.WriteLine("Hello");
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-![image]
+![image](https://user-images.githubusercontent.com/115066359/232003543-6a495c5d-f16e-4e50-bd13-c58d8647bb56.png)
+
 
 
 
