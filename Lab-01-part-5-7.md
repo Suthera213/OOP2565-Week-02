@@ -43,6 +43,8 @@ Console.WriteLine("{0, 0:X}", n);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/115066359/232007704-41df276a-14cc-41b9-ab00-23524298cda7.png)
+
 
 ❔  การกำหนดตัวอักษร E, F, G, N, P, X หมายถึงให้พิมพ์ออกมาเป็นอะไร
 
@@ -63,6 +65,7 @@ Console.WriteLine("{0, 20:X}", 1);
 ```
 
 ➢   รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/115066359/232007851-0f6c618e-0e88-4c14-ac82-757b8193e945.png)
 
  
 ## [Part 8  การกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์](./Lab-01-part-8.md)
