@@ -24,6 +24,7 @@ Console.WriteLine("f={0}", f);
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
+![image](https://user-images.githubusercontent.com/115066359/232101565-1859cb84-a197-4a6a-af18-f24e58564485.png)
 
 
 
